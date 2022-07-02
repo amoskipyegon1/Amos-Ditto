@@ -1,5 +1,3 @@
 - 👋 Hi I'm Amos Kipyegon.
-- 🌱 I’m enthusiast of Web Development and Machine Learning.
-- 👯 I’m looking to collaborate on Django projects, data science, ML & NLP Projects
 - 📫 You can reach me at: dittoamos@gmail.com
-- ⚡ Fun fact: I'm a Full-stack Dev
+- ⚡ Fun fact: Python and JavaScript Dev.
