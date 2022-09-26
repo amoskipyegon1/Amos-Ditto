@@ -5,7 +5,7 @@
 
 # Hello, I am Amos Kipyegon 👋
 
-- 📱 Experienced Back-end developer with vast knowldge in Restful Api's.
+- 📱 Experienced Back-end developer.
 - 🔭 Currently working and building with React & Vue Js. Also looking for open-source projects.
 - ⚙️ Filled with the potential of converting ideas into working products
 
