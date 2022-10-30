@@ -46,12 +46,8 @@
 
 ### My Recent Stats:
 
-<div width="100%" display="flex" flex-direction="row">
+<img align="left" width='80%' alt="Contribution Stats" src="https://raw.githubusercontent.com/Amos-Ditto/Stats/master/generated/overview.svg#gh-dark-mode-only" />
+<img align="center" width='80%' alt="Contribution Stats" src="https://raw.githubusercontent.com/Amos-Ditto/Stats/master/generated/overview.svg#gh-light-mode-only" />
 
-<img align="left" width='50%' alt="Contribution Stats" src="https://raw.githubusercontent.com/Amos-Ditto/Stats/master/generated/overview.svg#gh-dark-mode-only" />
-<img align="left" width='50%' alt="Contribution Stats" src="https://raw.githubusercontent.com/Amos-Ditto/Stats/master/generated/overview.svg#gh-light-mode-only" />
-
-<img align="right" width='50%' alt="Language Stats" src="https://raw.githubusercontent.com/Amos-Ditto/Stats/master/generated/languages.svg#gh-dark-mode-only" />
-<img align="right" width='50%' alt="Language Stats" src="https://raw.githubusercontent.com/Amos-Ditto/Stats/master/generated/languages.svg#gh-light-mode-only" />
-
-</div>
+<img align="left" width='80%' alt="Language Stats" src="https://raw.githubusercontent.com/Amos-Ditto/Stats/master/generated/languages.svg#gh-dark-mode-only" />
+<img align="center" width='80%' alt="Language Stats" src="https://raw.githubusercontent.com/Amos-Ditto/Stats/master/generated/languages.svg#gh-light-mode-only" />
