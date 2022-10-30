@@ -46,8 +46,8 @@
 
 ### My Recent Stats:
 
-<img align="left" width='60%' alt="Contribution Stats" src="https://raw.githubusercontent.com/Amos-Ditto/Stats/master/generated/overview.svg#gh-dark-mode-only" />
-<img align="left" width='60%' alt="Contribution Stats" src="https://raw.githubusercontent.com/Amos-Ditto/Stats/master/generated/overview.svg#gh-light-mode-only" />
+<img align="left" alt="Contribution Stats" src="https://raw.githubusercontent.com/Amos-Ditto/Stats/master/generated/overview.svg#gh-dark-mode-only" />
+<img align="left" alt="Contribution Stats" src="https://raw.githubusercontent.com/Amos-Ditto/Stats/master/generated/overview.svg#gh-light-mode-only" />
 
-<img align="left" width='60%' alt="Language Stats" src="https://raw.githubusercontent.com/Amos-Ditto/Stats/master/generated/languages.svg#gh-dark-mode-only" />
-<img align="left" width='60%' alt="Language Stats" src="https://raw.githubusercontent.com/Amos-Ditto/Stats/master/generated/languages.svg#gh-light-mode-only" />
+<img align="left" alt="Language Stats" src="https://raw.githubusercontent.com/Amos-Ditto/Stats/master/generated/languages.svg#gh-dark-mode-only" />
+<img align="left" alt="Language Stats" src="https://raw.githubusercontent.com/Amos-Ditto/Stats/master/generated/languages.svg#gh-light-mode-only" />
