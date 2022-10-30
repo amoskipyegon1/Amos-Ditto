@@ -1,6 +1,6 @@
 ### Hi there, I'm Amos Kipyegon <div align = 'right'>![](https://komarev.com/ghpvc/?username=Amos-Ditto&color=blue)</div>
 
-## I'm a Software Engineer and a Great Freelancer.!!
+## I'm a Software Engineer and a Great Freelancer!!
 
 -   🌱 I am currently getting my hands dirty with freelancing at <a href="https://www.upwork.com/freelancers/~0136572cf2be4d7655?viewMode=1">@Upwork</a>.
 -   👯 I’m looking to expand my stack coverage.
