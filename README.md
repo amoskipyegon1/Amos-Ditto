@@ -5,7 +5,6 @@
   Profile Views<br>
   <img src="https://profile-counter.glitch.me/Amos-Ditto/count.svg" />
 </p>
-​
 I'm Amos, a full-stack developer and a great freelancer!!<br>
 <br>
 
@@ -21,15 +20,14 @@ I'm Amos, a full-stack developer and a great freelancer!!<br>
 
 -   🚀 Always looking to Collaborate on projects so definitely hit me up
 
-### Connect with me
-
+# Connect with me
 [<img alt="Twitter Follow" height=28 src="https://img.shields.io/twitter/follow/_ditto1?label=Twitter&style=for-the-badge&logo=Twitter&logoColor=blue">][twitter]
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 
 <br />
 
-​## 🎍 Tech Stacks
+# 🎍Tech Stacks
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
@@ -51,7 +49,7 @@ I'm Amos, a full-stack developer and a great freelancer!!<br>
 <br />
 <br />
 
-### My Recent Stats:
+# My Recent Stats:
 <img align="left" alt="Contribution Stats" src="https://raw.githubusercontent.com/Amos-Ditto/Stats/master/generated/overview.svg#gh-dark-mode-only" />
 <img align="left" alt="Contribution Stats" src="https://raw.githubusercontent.com/Amos-Ditto/Stats/master/generated/overview.svg#gh-light-mode-only" />
 <img align="left" alt="Language Stats" src="https://raw.githubusercontent.com/Amos-Ditto/Stats/master/generated/languages.svg#gh-dark-mode-only" />
